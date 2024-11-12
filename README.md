@@ -4,9 +4,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satakshi2703&label=Profile%20views&color=0e75b6&style=flat" alt="satakshi2703" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satakshi2703" alt="satakshi2703" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satakshi2703&label=Profile%20views&color=0e75b6&style=flat" alt="satakshi2703" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Satakshi2703](https://github.com/Satakshi2703)
 
