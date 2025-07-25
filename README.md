@@ -25,22 +25,18 @@
 - 🚀 **Universal Web Scraper**  
   *Python | Playwright | BeautifulSoup | Streamlit | Gemini AI*  
   Dynamic scraper for any website with AI-based field extraction and multi-format export.  
-  [View Repo](https://github.com/Satakshi2703/universal-ai-web-scraper)
-
+  
 - 🔍 **Public Libraries & DealsHeaven Scraper**  
   *Python | Streamlit | BeautifulSoup | Requests*  
   Scrapes US public libraries & live deals; supports custom search and export to CSV, JSON, Excel.  
-  [View Repo](https://github.com/Satakshi2703/streamlit-data-scraper)
 
 - 📄 **PDF RAG QA System**  
   *Python | LangChain | FAISS | Ollama | Qwen1.5*  
   Retrieval-Augmented QA pipeline for PDFs — vector store with dual local LLM backends (Ollama or Transformers).  
-  [View Repo](https://github.com/Satakshi2703/pdf-rag-qa-system)
 
 - 🧬 **WCE Colon Disease Classification**  
   *Deep Learning | Keras | TensorFlow*  
   CNN model to detect colon diseases like polyps & colitis from WCE images with high accuracy.  
-  [View Repo](https://github.com/Satakshi2703/WCE-Curated-Colon-Disease-Classification-using-Deep-Learning)
 
 ---
 
